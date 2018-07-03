@@ -18,7 +18,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Adrenaline Pump CBM",
-    "description": "A stimulator system has been implanted alongside your adrenal glands, allowing you to trigger your body's adrenaline response at the cost of some bionic power.",
+    "description": "A stimulator system has been surgically implanted alongside your adrenal glands, allowing you to trigger your body's adrenaline response at the cost of some bionic power.",
     "price": 4000,
     "difficulty": 6
   },
@@ -54,7 +54,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Arms Alloy Plating CBM",
-    "description": "The flesh on your arms has been replaced by a strong armor, protecting you greatly.",
+    "description": "The flesh on your arms has been surgically replaced by a strong armor, protecting you greatly.",
     "price": 350000,
     "difficulty": 3
   },
@@ -63,7 +63,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Protective Lenses CBM",
-    "description": "Your eye sockets have been sealed with highly protective mirrored lenses and your tear ducts have been re-routed to your mouth.  When you cry, you must spit out or swallow your tears.",
+    "description": "Your eye sockets have been surgically sealed with highly protective mirrored lenses and your tear ducts have been re-routed to your mouth.  When you cry, you must spit out or swallow your tears.",
     "price": 550000,
     "difficulty": 5
   },
@@ -72,7 +72,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Head Alloy Plating CBM",
-    "description": "The flesh on your head has been replaced by a strong armor, protecting both your head and jaw regions.",
+    "description": "The flesh on your head has been surgically replaced by a strong armor, protecting both your head and jaw regions.",
     "price": 350000,
     "difficulty": 5
   },
@@ -81,7 +81,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Legs Alloy Plating CBM",
-    "description": "The flesh on your legs has been replaced by a strong armor, protecting you greatly.",
+    "description": "The flesh on your legs has been surgically replaced by a strong armor, protecting you greatly.",
     "price": 350000,
     "difficulty": 3
   },
@@ -90,7 +90,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Torso Alloy Plating CBM",
-    "description": "The flesh on your torso has been replaced by a strong armor, protecting you greatly.",
+    "description": "The flesh on your torso has been surgically replaced by a strong armor, protecting you greatly.",
     "price": 350000,
     "difficulty": 4
   },
@@ -117,7 +117,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Fusion Blaster Arm CBM",
-    "description": "Your left arm has been replaced by a heavy-duty fusion blaster!  You may use your energy banks to fire a damaging heat ray.  However, you are unable to use or carry two-handed items, and your strength limits what you can use with your one hand.",
+    "description": "Your left arm has been surgically replaced by a heavy-duty fusion blaster!  You may use your energy banks to fire a damaging heat ray.  However, you are unable to use or carry two-handed items, and your strength limits what you can use with your one hand.",
     "price": 220000,
     "difficulty": 3
   },
@@ -126,7 +126,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Blood Analysis CBM",
-    "description": "Small sensors have been implanted in your heart, allowing you to analyze your blood.  This will detect many illnesses, drugs, and other conditions.",
+    "description": "Small sensors have been surgically implanted in your heart, allowing you to analyze your blood.  This will detect many illnesses, drugs, and other conditions.",
     "price": 320000,
     "difficulty": 2
   },
@@ -171,7 +171,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Bionic Claws CBM",
-    "description": "Vicious claws have been installed inside your fingers, allowing you to extend and retract them at the cost of a small amount of power.  These do considerable cutting damage, but prevent you from holding anything else while extended.",
+    "description": "Vicious claws have been surgically installed inside your fingers, allowing you to extend and retract them at the cost of a small amount of power.  These do considerable cutting damage, but prevent you from holding anything else while extended.",
     "price": 550000,
     "difficulty": 5
   },
@@ -234,7 +234,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Directional EMP CBM",
-    "description": "Mounted in the palms of your hand are small parabolic EMP field generators.  You may use power to fire a short-ranged blast which will disable electronics and robots.",
+    "description": "Surgically mounted in the palms of your hand are small parabolic EMP field generators.  You may use power to fire a short-ranged blast which will disable electronics and robots.",
     "price": 720000,
     "difficulty": 5
   },
@@ -270,7 +270,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Telescopic Eyes CBM",
-    "description": "Much of the material in your inner eye has been removed and replaced with an array of high-powered, auto-focusing lenses.  You can now see much farther and more clearly than before, any vision problems you might have had are now gone.",
+    "description": "Much of the material in your inner eye has been surgically removed and replaced with an array of high-powered, auto-focusing lenses.  You can now see much farther and more clearly than before, any vision problems you might have had are now gone.",
     "price": 500000,
     "difficulty": 5
   },
@@ -297,7 +297,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Fingerhack CBM",
-    "description": "One of your fingers has an electrohack embedded in it; an all-purpose hacking unit used to override control panels and the like (but not computers).  Skill in computers is important, and a failed use may damage your circuits.",
+    "description": "One of your fingers has an electrohack surgically embedded in it; an all-purpose hacking unit used to override control panels and the like (but not computers).  Skill in computers is important, and a failed use may damage your circuits.",
     "price": 350000,
     "difficulty": 2
   },
@@ -306,7 +306,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Flashbang Generator CBM",
-    "description": "Light emitting diodes integrated into your skin can release a flash comparable to a flashbang grenade, blinding nearby enemies.  Speakers integrated into your body mimic the loud sound, deafening those nearby.",
+    "description": "Light emitting diodes surgically integrated into your skin can release a flash comparable to a flashbang grenade, blinding nearby enemies.  Speakers integrated into your body mimic the loud sound, deafening those nearby.",
     "price": 720000,
     "difficulty": 5
   },
@@ -315,7 +315,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Cranial Flashlight CBM",
-    "description": "Mounted between your eyes is a small but powerful LED flashlight.",
+    "description": "Surgically mounted between your eyes is a small but powerful LED flashlight.",
     "price": 20000,
     "difficulty": 2
   },
@@ -333,7 +333,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Integrated Dosimeter CBM",
-    "description": "Small radiation sensors have been implanted throughout your body, allowing you to analyze your level of absorbed radiation.  They will also alert you whenever exposed to environmental radiation.",
+    "description": "Small radiation sensors have been surgically implanted throughout your body, allowing you to analyze your level of absorbed radiation.  They will also alert you whenever exposed to environmental radiation.",
     "price": 350000,
     "difficulty": 3
   },
@@ -369,7 +369,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Thermal Dissipation CBM",
-    "description": "Powerful heatsinks and supermaterials are woven into your flesh.  While powered, this system will prevent heat damage up to 2000 degrees Fahrenheit.  Note that this does not affect your internal temperature.",
+    "description": "Powerful heatsinks and supermaterials are surgically woven into your flesh.  While powered, this system will prevent heat damage up to 2000 degrees Fahrenheit.  Note that this does not affect your internal temperature.",
     "price": 350000,
     "difficulty": 3
   },
@@ -405,7 +405,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Finger-Mounted Laser CBM",
-    "description": "One of your fingers has a small high-powered laser embedded in it.  This long range weapon is not incredibly damaging, but is very accurate, and has the potential to start fires.",
+    "description": "One of your fingers has a small high-powered laser surgically embedded in it.  This long range weapon is not incredibly damaging, but is very accurate, and has the potential to start fires.",
     "price": 720000,
     "difficulty": 5
   },
@@ -432,7 +432,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Fingerpick CBM",
-    "description": "One of your fingers has an electronic lockpick embedded in it.  This automatic system will quickly unlock all but the most advanced key locks without any skill required on the part of the user.",
+    "description": "One of your fingers has an electronic lockpick surgically embedded in it.  This automatic system will quickly unlock all but the most advanced key locks without any skill required on the part of the user.",
     "price": 350000,
     "difficulty": 2
   },
@@ -441,7 +441,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Electromagnetic Unit CBM",
-    "description": "Embedded in your hand is a powerful electromagnet, allowing you to pull items made of iron over short distances.",
+    "description": "Surgically embedded in your hand is a powerful electromagnet, allowing you to pull items made of iron over short distances.",
     "price": 200000,
     "difficulty": 2
   },
@@ -586,7 +586,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Air Filtration System CBM",
-    "description": "Implanted in your trachea is an advanced filtration system.  If toxins, or airborne diseases find their way into your windpipe, the filter will attempt to remove them.  Reducing the toxic effects.",
+    "description": "Surgically implanted in your trachea is an advanced filtration system.  If toxins, or airborne diseases find their way into your windpipe, the filter will attempt to remove them.  Reducing the toxic effects.",
     "price": 450000,
     "difficulty": 4
   },
@@ -713,7 +713,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Internal Storage CBM",
-    "description": "Space inside your chest cavity has been converted into a storage area.  You may carry an extra 2 liters of volume.",
+    "description": "Space inside your chest cavity has been surgically converted into a storage area.  You may carry an extra 2 liters of volume.",
     "price": 400000,
     "difficulty": 7
   },
@@ -731,7 +731,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Anti-Glare Compensators CBM",
-    "description": "Your eyes have quick-reacting transition lenses installed over them.  They negate glare penalties, partially protect you from bright flashes, and protect your eyes when welding.",
+    "description": "Your eyes have quick-reacting transition lenses surgically installed over them.  They negate glare penalties, partially protect you from bright flashes, and protect your eyes when welding.",
     "price": 450000,
     "difficulty": 4
   },
@@ -767,7 +767,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Integrated Toolset CBM",
-    "description": "Implanted in your hands and fingers is a complete tool set - screwdriver, hammer, wrench, and heating elements.  You can use this in place of many tools when crafting.",
+    "description": "Surgically implanted in your hands and fingers is a complete tool set - screwdriver, hammer, wrench, and heating elements.  You can use this in place of many tools when crafting.",
     "price": 800000,
     "difficulty": 6
   },
@@ -776,7 +776,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Joint Torsion Ratchet CBM",
-    "description": "Your joints have been equipped with torsion ratchets that generate power slowly when you move.",
+    "description": "Your joints have been surgically equipped with torsion ratchets that generate power slowly when you move.",
     "price": 380000,
     "difficulty": 4
   },
@@ -812,7 +812,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Water Extraction Unit CBM",
-    "description": "Nanotubes embedded in the palm of your hand will pump any available fluid out of a dead body, cleanse it of impurities and convert it into drinkable water.  You must, however, have a container to store the water in.",
+    "description": "Nanotubes surgically embedded in the palm of your hand will pump any available fluid out of a dead body, cleanse it of impurities and convert it into drinkable water.  You must, however, have a container to store the water in.",
     "price": 550000,
     "difficulty": 5
   }
