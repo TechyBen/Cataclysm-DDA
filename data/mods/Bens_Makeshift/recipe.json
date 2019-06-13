@@ -1,0 +1,27 @@
+[
+  {
+    "result": "makeshift_goggles_nv",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_HEAD",
+    "skill_used": "electronics",
+    "difficulty": 5,
+    "skills_required": [ "tailor", 2 ],
+    "time": "60 m",
+    "reversible": true,
+    "decomp_learn": 4,
+    "book_learn": [ [ "advanced_electronics", 4 ], [ "textbook_electronics", 4 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [
+      [ [ "glasses_safety", 1 ], [ "goggles_welding", 1 ], [ "mask_gas", 1 ], [ "goggles_ski", 1 ] ],
+      [ [ "power_supply", 1 ] ],
+      [ [ "amplifier", 2 ] ],
+      [ [ "scrap", 3 ] ],
+      [ [ "small_lcd_screen", 2 ] ],
+      [ [ "lens_small", 2 ] ],
+      [ [ "circuit", 1 ] ],
+      [ [ "omnicamera", 1 ], [ "bot_eyebot", 1 ], [ "broken_eyebot" ], [ "camera_pro", 1 ] ],
+      [ [ "smart_phone", 1 ] ]
+    ]
+  }
+]
