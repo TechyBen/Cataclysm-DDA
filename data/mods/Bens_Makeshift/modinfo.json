@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Bens_Makeshift",
+    "name": "Bens Makeshift Tech",
+    "authors": [ "TechyBen" ],
+    "maintainers": [ "TechyBen" ],
+    "description": "Some more basic makesift electronics. Bodged but working survival equipment.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
