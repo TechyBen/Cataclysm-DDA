@@ -1,0 +1,6 @@
+[
+  {"id": "tool_armor",
+    "type": "item_group",
+    "items": [ [ "makeshift_goggles_nv", 10 ] ]
+  }
+]
