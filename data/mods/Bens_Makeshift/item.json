@@ -1,0 +1,62 @@
+[
+  {
+    "id": "makeshift_goggles_nv",
+    "type": "TOOL_ARMOR",
+    "category": "clothing",
+    "symbol": "[",
+    "color": "dark_gray",
+    "name": "makeshift nv goggles",
+    "description": "A carefully assembled IR modified camera and a screen. Includes its own IR torch. This uses a lot of power compared to professionaly built devices.",
+    "flags": [ "FRAGILE" ],
+    "price": 2200,
+    "material": [ "plastic", "steel" ],
+    "weight": 2040,
+    "volume": 8,
+    "to_hit": -3,
+    "charges_per_use": 4,
+    "ammo": "battery",
+    "use_action": {
+      "type": "transform",
+      "msg": "You activate your %s.",
+      "target": "makeshift_goggles_nv_on",
+      "active": true,
+      "need_charges": 1,
+      "need_charges_msg": "The %s's batteries are dead."
+    },
+    "covers": [ "EYES" ],
+    "warmth": 7,
+    "encumbrance": 80,
+    "coverage": 60,
+    "material_thickness": 3,
+    "magazines": [
+      [
+        "battery",
+        [
+          "light_plus_battery_cell",
+          "light_battery_cell",
+          "light_minus_battery_cell",
+          "light_atomic_battery_cell",
+          "light_minus_atomic_battery_cell",
+          "light_minus_disposable_cell",
+          "light_disposable_cell"
+        ]
+      ]
+    ],
+    "magazine_well": 1
+  },
+  {
+    "id": "makeshift_goggles_nv_on",
+    "copy-from": "makeshift_goggles_nv",
+    "type": "TOOL_ARMOR",
+    "name": "pair of makeshift light amp goggles (on)",
+    "name_plural": "pairs of light amp goggles (on)",
+    "description": "A pair of battery-powered goggles that amplify ambient light, allowing you to see in the dark.  It is turned on, and continually draining batteries.  Use it to turn them off.",
+    "flags": [ "GNV_EFFECT", "FRAGILE", "TRADER_AVOID" ],
+    "turns_per_charge": 9,
+    "revert_to": "makeshift_goggles_nv",
+    "use_action": { "type": "transform", "menu_text": "Turn off", "msg": "Your %s deactivates.", "target": "makeshift_goggles_nv" },
+    "warmth": 9,
+    "encumbrance": 80,
+    "magazine_well": 1
+  }
+]
