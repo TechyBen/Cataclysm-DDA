@@ -13,7 +13,7 @@
     "weight": 2040,
     "volume": 8,
     "to_hit": -3,
-    "charges_per_use": 4,
+    "power_draw": 1500,
     "ammo": "battery",
     "use_action": {
       "type": "transform",
