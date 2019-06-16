@@ -6,7 +6,7 @@
     "subcategory": "CSC_OTHER_MEDICAL",
     "skill_used": "firstaid",
     "difficulty": 4,
-    "skills_required": [ [ "survival", 4 ], [ "firstaid", 2 ] ],
+    "skills_required": [ [ "survival", 3 ], [ "firstaid", 2 ] ],
     "time": "1 m",
     "autolearn": true,
     "components": [
