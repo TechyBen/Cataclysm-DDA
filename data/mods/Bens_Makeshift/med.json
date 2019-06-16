@@ -1,0 +1,32 @@
+[
+  {
+    "id": "survivor_medkit",
+    "type": "GENERIC",
+    "category": "drugs",
+    "name": "survivor medkit",
+    "description": "A small emergency medical supply of bandages and treatments. Using only the smallest and most effective supplies makes this kit small and easy to carry. Disassemble to get its content.",
+    "weight": 800,
+    "volume": 2,
+    "price": 3500,
+    "material": "plastic",
+    "symbol": "!",
+    "color": "orange",
+    "use_action": "DISASSEMBLE",
+    "flags": [ "NO_REPAIR", "TRADER_AVOID" ]
+  },
+    {
+    "id": "survivor_panickit",
+    "type": "GENERIC",
+    "category": "drugs",
+    "name": "survivor medkit",
+    "description": "A small extreme emergency medical kit. Containing specialist treatment drugs and stimulants. For use in extremely dangerous circumstances.",
+    "weight": 1200,
+    "volume": 3,
+    "price": 3500,
+    "material": "plastic",
+    "symbol": "!",
+    "color": "purple",
+    "use_action": "DISASSEMBLE",
+    "flags": [ "NO_REPAIR", "TRADER_AVOID" ]
+  }
+]

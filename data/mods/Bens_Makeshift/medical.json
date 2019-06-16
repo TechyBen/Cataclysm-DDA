@@ -1,0 +1,26 @@
+[
+  {
+    "result": "survivor_medkit",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MEDICAL",
+    "skill_used": "firstaid",
+    "difficulty": 4,
+    "skills_required": [ [ "survival", 4 ], [ "firstaid", 2 ] ],
+    "time": "1 m",
+    "autolearn": true,
+    "components": [
+    [ [ "bag_canvas_small", 1 ] ],
+    [ [ "bag_zipper", 1 ] ],
+    [ [ "medical_tape", 10 ] ],
+    [ [ "aspirin", 5 ] ],
+    [ [ "bfipowder", 4 ] ],
+    [ [ "bandages", 3 ] ],
+    [ [ "quikclot", 2 ] ],
+    [ [ "medical_gauze", 6 ] ],
+    [ [ "antibiotics", 2 ] ],
+    [ [ "caffeine", 2 ] ],
+    [ [ "codeine", 2 ] ]
+    ]
+  }
+]

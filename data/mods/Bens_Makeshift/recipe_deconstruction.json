@@ -1,0 +1,21 @@
+[
+  {
+    "result": "survivor_medkit",
+    "type": "uncraft",
+    "time": "0 m",
+    "components": [
+      [ [ "bag_canvas_small", 1 ] ],
+      [ [ "bag_zipper", 1 ] ],
+      [ [ "medical_tape", 10 ] ],
+      [ [ "aspirin", 5 ] ],
+      [ [ "bfipowder", 4 ] ],
+      [ [ "bandages", 3 ] ],
+      [ [ "quikclot", 2 ] ],
+      [ [ "medical_gauze", 6 ] ],
+      [ [ "antibiotics", 2 ] ],
+      [ [ "caffeine", 2 ] ],
+      [ [ "codeine", 2 ] ]
+    ],
+    "flags": [ "BLIND_EASY", "UNCRAFT_LIQUIDS_CONTAINED" ]
+  }
+]
