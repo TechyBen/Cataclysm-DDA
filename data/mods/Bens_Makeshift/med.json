@@ -15,13 +15,13 @@
     "flags": [ "NO_REPAIR", "TRADER_AVOID" ]
   },
     {
-    "id": "survivor_panickit",
+    "id": "survivor_panic_kit",
     "type": "GENERIC",
     "category": "drugs",
-    "name": "survivor medkit",
+    "name": "survivor panic kit",
     "description": "A small extreme emergency medical kit. Containing specialist treatment drugs and stimulants. For use in extremely dangerous circumstances.",
-    "weight": 1200,
-    "volume": 3,
+    "weight": 400,
+    "volume": 1,
     "price": 3500,
     "material": "plastic",
     "symbol": "!",
