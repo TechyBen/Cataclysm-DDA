@@ -15,8 +15,8 @@
     "components": [
       [ [ "glasses_safety", 1 ], [ "goggles_welding", 1 ], [ "mask_gas", 1 ], [ "goggles_ski", 1 ] ],
       [ [ "power_supply", 1 ] ],
-      [ [ "amplifier", 2 ] ],
-      [ [ "scrap", 3 ] ],
+      [ [ "amplifier", 3 ] ],
+      [ [ "scrap", 5 ] ],
       [ [ "small_lcd_screen", 2 ] ],
       [ [ "lens_small", 2 ] ],
       [ [ "circuit", 1 ] ],
