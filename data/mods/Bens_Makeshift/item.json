@@ -52,7 +52,7 @@
     "name_plural": "pairs of light amp goggles (on)",
     "description": "A pair of battery-powered goggles that amplify ambient light, allowing you to see in the dark.  It is turned on, and continually draining batteries.  Use it to turn them off.",
     "flags": [ "GNV_EFFECT", "FRAGILE", "TRADER_AVOID" ],
-    "turns_per_charge": 9,
+    "power_draw":1.5,
     "revert_to": "makeshift_goggles_nv",
     "use_action": { "type": "transform", "menu_text": "Turn off", "msg": "Your %s deactivates.", "target": "makeshift_goggles_nv" },
     "warmth": 9,
