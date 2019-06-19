@@ -20,8 +20,29 @@
       [ [ "small_lcd_screen", 2 ] ],
       [ [ "lens_small", 2 ] ],
       [ [ "circuit", 1 ] ],
-      [ [ "omnicamera", 1 ], [ "bot_eyebot", 1 ], [ "broken_eyebot" ], [ "camera_pro", 1 ] ],
+      [ [ "omnicamera", 1 ], [ "camera_pro", 1 ] ],
       [ [ "smart_phone", 1 ] ]
     ]
-  }
+  },
+  {
+  "type" : "recipe",
+  "result": "makeshift_rocket_stove",
+  "category": "CC_OTHER",
+  "subcategory": "CSC_OTHER_TOOLS",
+  "skill_used": "survival",
+  "skills_required": ["fabrication", 3],
+  "difficulty": 4,
+  "time": 20000,
+  "autolearn": true,
+  "book_learn": [["mag_survival", 2] , ["textbook_survival", 1] , ["cookbook", 2]],
+  "tools": [
+  [ [ "swage", -1 ] ]
+  ],
+  "qualities" : [ {"id":"SAW_M","level":2}, {"id":"HAMMER","level":3}, {"id":"DRILL","level":1}, {"id":"CHISEL", "level":3} ],
+  "components": [[
+    [ "can_food_unsealed", 2 ],
+    [ "metal_sheet_small", 9 ],
+    [ "wire", 1 ]
+  ]]
+}
 ]
