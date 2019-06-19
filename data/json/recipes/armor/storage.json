@@ -603,6 +603,10 @@
     "autolearn": true,
     "qualities": [ { "id": "SEW", "level": 1 } ],
     "components": [ [ [ "felt_patch", 7 ], [ "leather", 7 ], [ "fur", 7 ] ], [ [ "filament", 20, "LIST" ], [ "cordage", 2, "LIST" ] ] ]
+    "components": [
+      [ [ "leather", 6 ], [ "tanned_hide", 1 ] ],
+      [ [ "filament", 600, "LIST" ], [ "cordage", 2, "LIST" ] ]
+    ]
   },
   {
     "result": "straw_basket",
