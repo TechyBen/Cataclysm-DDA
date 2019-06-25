@@ -162,5 +162,19 @@
       }
     ],
     "flags": [ "LIGHT_3" ]
-  }
+  },
+      "id": "crude_shovel",
+    "type": "TOOL",
+    "name": "improvised shovel",
+    "description": "This is a peice of sheet metal affixed to a stick with some wire.  It works passably well as a shovel but really can't compare to a real shovel.",
+    "weight": 2581,
+    "volume": 16,
+    "price": 0,
+    "bashing": 15,
+    "cutting": 1,
+    "material": [ "metal", "wood" ],
+    "symbol": "/",
+    "color": "brown",
+    "qualities": [ [ "DIG", 2 ], [ "COOK", 1 ], [ "BUTCHER", -96 ] ]
+    }
 ]
