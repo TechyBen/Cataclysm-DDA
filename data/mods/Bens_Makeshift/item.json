@@ -163,7 +163,8 @@
     ],
     "flags": [ "LIGHT_3" ]
   },
-      "id": "crude_shovel",
+  {
+    "id": "crude_shovel",
     "type": "TOOL",
     "name": "improvised shovel",
     "description": "This is a peice of sheet metal affixed to a stick with some wire.  It works passably well as a shovel but really can't compare to a real shovel.",
