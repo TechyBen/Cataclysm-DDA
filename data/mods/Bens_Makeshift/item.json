@@ -173,7 +173,7 @@
     "price": 0,
     "bashing": 15,
     "cutting": 1,
-    "material": [ "metal", "wood" ],
+    "material": [ "steel", "wood" ],
     "symbol": "/",
     "color": "brown",
     "qualities": [ [ "DIG", 2 ], [ "COOK", 1 ], [ "BUTCHER", -96 ] ]
